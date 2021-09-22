@@ -1,0 +1,9 @@
+Package: terrainr
+Version: 0.5.0
+Imports: base64enc, httr, raster, magick (>= 2.5.0), gdalUtils,
+        methods, png, sf, units, grDevices, ggplot2
+Suggests: testthat, covr, progressr, knitr, rmarkdown, progress, jpeg,
+        tiff, brio
+License: MIT + file LICENSE
+MD5sum: 461c9d391c8b265f42a5e257945d6de5
+NeedsCompilation: no
