@@ -45,5 +45,5 @@ Imports: base64enc, httr, raster, magick (>= 2.5.0), gdalUtils,
 Suggests: testthat, covr, progressr, knitr, rmarkdown, progress, jpeg,
         tiff, brio
 License: MIT + file LICENSE
-MD5sum: 804a602e3f34beddae9f92815b3d471e
+MD5sum: 16dbcdc3df9e7c17b4df5fca94e90a67
 NeedsCompilation: no
