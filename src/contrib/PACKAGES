@@ -47,3 +47,13 @@ Suggests: testthat, covr, progressr, knitr, rmarkdown, progress, jpeg,
 License: MIT + file LICENSE
 MD5sum: 16dbcdc3df9e7c17b4df5fca94e90a67
 NeedsCompilation: no
+
+Package: terrainr
+Version: 0.6.0
+Imports: base64enc, httr, raster, rgdal, magick (>= 2.5.0), methods,
+        png, sf (>= 1.0-5), units, grDevices, ggplot2
+Suggests: testthat, covr, progressr, knitr, rmarkdown, progress, jpeg,
+        tiff, brio
+License: MIT + file LICENSE
+MD5sum: 0b95fd2a651c79e8529e733b74f7c1d0
+NeedsCompilation: no
