@@ -85,5 +85,5 @@ Imports: base64enc, ggplot2, glue, grDevices, httr, magick (>= 2.5.0),
 Suggests: brio, covr, jpeg, knitr, progress, progressr, raster, rgdal,
         rmarkdown, testthat, tiff
 License: MIT + file LICENSE
-MD5sum: f45c0f0a15cad55fc0c7ed32eb15337e
+MD5sum: 6587fbb8e1b712e030653058ba750cdc
 NeedsCompilation: no
