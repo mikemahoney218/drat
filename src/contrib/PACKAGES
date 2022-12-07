@@ -90,11 +90,12 @@ NeedsCompilation: no
 
 Package: terrainr
 Version: 0.7.1.9000
-Imports: base64enc, ggplot2, glue, grDevices, httr, magick (>= 2.5.0),
-        methods, png, raster (>= 3.5-19), rlang, sf (>= 1.0-5), terra,
-        unifir, units
+Depends: R (>= 2.10)
+Imports: base64enc, ggplot2 (>= 3.4.0), glue, grDevices, httr, magick
+        (>= 2.5.0), methods, png, raster (>= 3.5-19), rlang, sf (>=
+        1.0-5), terra, unifir, units
 Suggests: brio, covr, jpeg, knitr, progress, progressr, rgdal,
         rmarkdown, testthat, tiff
 License: MIT + file LICENSE
-MD5sum: 532e430b1b2aeb59e45d01527ff9b4f7
+MD5sum: 282b3134d5244ec38001df6cdd34ca3f
 NeedsCompilation: no
