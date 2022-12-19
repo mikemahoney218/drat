@@ -116,10 +116,10 @@ Package: terrainr
 Version: 0.7.2.9000
 Depends: R (>= 2.10)
 Imports: base64enc, ggplot2 (>= 3.4.0), glue, grDevices, httr, magick
-        (>= 2.5.0), methods, png, raster (>= 3.5-19), rlang, sf (>=
-        1.0-5), terra, unifir, units
-Suggests: brio, covr, jpeg, knitr, progress, progressr, rgdal,
-        rmarkdown, testthat, tiff
+        (>= 2.5.0), methods, png, rlang, sf (>= 1.0-5), terra, unifir,
+        units
+Suggests: brio, covr, jpeg, knitr, progress, progressr, rmarkdown,
+        testthat, tiff
 License: MIT + file LICENSE
-MD5sum: 7b273ee0b561d119856442bebed23b6b
+MD5sum: 6ee2fc2dc8e7730999efefb695962a47
 NeedsCompilation: no
