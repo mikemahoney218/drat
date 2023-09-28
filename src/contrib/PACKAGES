@@ -147,3 +147,15 @@ Suggests: brio, covr, jpeg, knitr, progress, progressr, rmarkdown,
 License: MIT + file LICENSE
 MD5sum: bff2e75cf38e18a739802cb21fefa753
 NeedsCompilation: no
+
+Package: terrainr
+Version: 0.7.4.9000
+Depends: R (>= 2.10)
+Imports: base64enc, ggplot2 (>= 3.4.0), glue, grDevices, httr, magick
+        (>= 2.5.0), methods, png, rlang, sf (>= 1.0-5), terra, unifir,
+        units
+Suggests: brio, covr, jpeg, knitr, progress, progressr, rmarkdown,
+        testthat, tiff
+License: MIT + file LICENSE
+MD5sum: 6a7f0004b7697852a7cc51ae3ecd0312
+NeedsCompilation: no
